@@ -1,4 +1,4 @@
-# NicoNico Seiga Shunga Archive
+# NicoNico Shunga Archive
 
 This is a codebase for archiving NicoNico Shunga.
 
